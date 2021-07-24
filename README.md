@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://hireza.ir)
+- Website [hireza.ir](https://hireza.ir)
 - GitHub [@reza-dehghani](https://github.com/reza-dehghani)
