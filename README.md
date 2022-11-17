@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://reza-dehghani.github.io/Dev-Challenges-404-template/">
+    <a href="/source/index.html">
       Demo
     </a>
     <span> | </span>
