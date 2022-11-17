@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="/source/index.html">
+    <a href="/index.html">
       Demo
     </a>
     <span> | </span>
