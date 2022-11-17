@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="/index.html">
+    <a href="https://reza-dehghani.github.io/Dev-Challenges-404-template/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/reza-dehghani/Dev-Challenges-404-template/tree/main/source">
+    <a href="https://github.com/reza-dehghani/Dev-Challenges-404-template/tree/main">
       Solution
     </a>
     <span> | </span>
